@@ -10,3 +10,6 @@ git push
 받을 때
 git fetch
 git pull
+
+
+asdasd
